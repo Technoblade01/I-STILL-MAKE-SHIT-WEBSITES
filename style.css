@@ -1,0 +1,23 @@
+h3 {
+    margin-top: 20;
+    margin-bottom: 20;
+}
+
+#displayName{
+    font-weight: bold;
+}
+
+#Sorting_btn{
+    display: none;
+    margin-top: 20;
+    margin-bottom: 20;
+}
+
+#submit_btn {
+    margin-top: 20;
+    margin-bottom: 20;
+}
+
+input{
+    margin: 10;
+}
